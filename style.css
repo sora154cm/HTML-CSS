@@ -78,7 +78,6 @@ footer {
   }
 }
 
-
 @media screen and (max-width: 768px) {
   .box{
   width:90%;
@@ -91,10 +90,5 @@ footer {
 @media screen and (max-width: 768px) {
   .box:last-child{
   margin-bottom:0px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .box:last-child{
   }
 }
